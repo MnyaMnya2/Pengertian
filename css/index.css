@@ -1,0 +1,32 @@
+html, body{
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #fdfcfc;
+    line-height: 1.5;
+    margin: 0;
+    border: 0;
+    overflow-x: hidden;
+}
+header{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    text-align: center;
+    margin: 0;
+    border: 0;
+    font-size: 3em;
+    margin-bottom: 3vh;
+    padding-bottom: 3vmin;
+    padding-top: 2vmin;
+}
+header #imgl{
+    width: 10vmin;
+    margin: auto;
+    padding-bottom: 1vmin;
+    float: left;
+    margin-left: 2vw;
+}
+
+
+
+
